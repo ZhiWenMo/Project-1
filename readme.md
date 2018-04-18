@@ -2,6 +2,7 @@
 
 ## data source
 + https://github.com/Deep-Learning-for-NLP-Chinese/Data_source
++ encode:gb18030
 
 ## possible requirements
 + jieba
